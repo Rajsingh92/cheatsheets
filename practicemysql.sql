@@ -1,4 +1,4 @@
-download database from mysqltutorial
+download database from mysqltutorial.org
 
 show databases;
 use classicmodels;
