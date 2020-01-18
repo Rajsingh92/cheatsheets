@@ -1,3 +1,5 @@
+download database from mysqltutorial
+
 show databases;
 use classicmodels;
 show tables;
